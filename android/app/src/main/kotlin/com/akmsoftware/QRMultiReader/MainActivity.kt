@@ -1,4 +1,4 @@
-package com.example.qr_multi_scan
+package com.akmsoftware.QRMultiReader
 
 import io.flutter.embedding.android.FlutterActivity
 
